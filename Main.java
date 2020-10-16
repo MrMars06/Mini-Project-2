@@ -22,9 +22,11 @@ class Main {
         System.out.println("Wow, you are automatically part of the 19 year old army! Congratulations!");
     }
 
-    // This for loop that will print a statement 3 times about which side you will fight for
-    for (int i = 0; < 3; i++) {
-      System.out.println("The Council has decided your fate.");
+    // This for Loop will activate if you say that you are a 9 yr old
+    if(age == 9) {
+      for(int i = 0; i < 3; i++) {
+        System.out.println("Tired I am, defend the nation with the 9 yr olds, you will.");
+      }
     }
   }
 }
