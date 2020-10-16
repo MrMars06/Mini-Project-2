@@ -22,7 +22,7 @@ class Main {
         System.out.println("Wow, you are automatically part of the 19 year old army! Congratulations!");
     }
 
-    // This for Loop will activate if you say that you are a 9 yr old
+    // This for Loop will activate if you say that you're a 9 year old with Scanner
     if(age == 9) {
       for(int i = 0; i < 3; i++) {
         System.out.println("Tired I am, defend the nation with the 9 yr olds, you will.");
