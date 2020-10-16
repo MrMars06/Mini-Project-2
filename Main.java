@@ -19,7 +19,7 @@ class Main {
       System.out.println("Congratulations! You are officially part of the nine year old army!");
 
     } else if(age > 9) {
-        System.out.println("Wow, you are automatically part of the 19 year old army! Congratulations!");
+        System.out.println("Congratulations! Wow, you are automatically part of the 19 year old army!");
     }
 
     // This for Loop will activate if you say that you're a 9 year old with Scanner
